@@ -1,3 +1,5 @@
+I am familiar with Selenium and Python and still learning. So I used selenium and python instead. but I am open to learn Playwright and javascript if needed.
+
 Steps:
 
 1. Logs in with valid credentials
